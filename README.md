@@ -1,2 +1,2 @@
 # bexco
-ai korea
+rock scissor paper game (with servo motor)
